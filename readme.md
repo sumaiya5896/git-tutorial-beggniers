@@ -7,3 +7,6 @@ drink
 code code code
 
 Fixed grammar
+
+# summary
+its a nice repo
